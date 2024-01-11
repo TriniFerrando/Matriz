@@ -1,4 +1,4 @@
-public class EjemplosMatricesBuscarElemento {
+public class EjemplosMatricesBuscarElemento_5 {
     public static void main(String[] args) {
         int[][] numero = {
                 {35, 90, 3, 1978},

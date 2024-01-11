@@ -1,4 +1,4 @@
-public class EjemplosMaticesSimetricas {
+public class EjemplosMaticesSimetricas_6 {
     public static void main(String[] args) {
 
         //Matriz simétrica: una de las filas es igual a una de las columnas

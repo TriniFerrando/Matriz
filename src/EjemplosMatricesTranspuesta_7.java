@@ -1,4 +1,4 @@
-public class EjemplosMatricesTranspuesta {
+public class EjemplosMatricesTranspuesta_7 {
     public static void main(String[] args) {
 
         //Matriz transpuesta
