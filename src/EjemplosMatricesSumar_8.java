@@ -3,7 +3,7 @@ Hacer la suma entre dos matrices y que el resultado este
 en una tercera matriz.
  */
 
-public class EjemplosMatricesSumar {
+public class EjemplosMatricesSumar_8 {
     public static void main(String[] args) {
 
         int[][] a= {
